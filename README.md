@@ -8,9 +8,12 @@
 
 ## 🚀 About Me
 
-I'm a Data Engineer and aspiring Data Scientist pursuing my Master's in Information Systems at Northeastern University, graduating in May 2025. I’m passionate about turning data into powerful insights and have experience in designing robust ETL pipelines, building data architectures, and developing intelligent research tools.
+As a master’s student in Information Systems at Northeastern University, I blend strong technical expertise with real-world experience to solve complex data challenges. Previously a Data Engineering Analyst at Accenture, I’ve led large-scale ETL pipeline implementations, automated workflows with Airflow, and developed interactive BI dashboards that drove critical business insights across supply chain and retail domains.
 
----
+My passion lies in turning data into impact. Whether it’s optimizing BigQuery procedures to boost efficiency, designing multi-modal document exploration tools using FastAPI and LangChain, or analyzing global GHG emissions with predictive models, I bring curiosity, precision, and creativity to every project.
+
+I’m skilled in Python, SQL, cloud platforms like AWS, GCP, and Azure, and love working at the intersection of data engineering, machine learning, and business intelligence. With a foundation in both engineering and research, I’m always excited to explore emerging technologies and contribute to data-driven decision-making.
+
 
 ## 💼 Experience Highlights
 
